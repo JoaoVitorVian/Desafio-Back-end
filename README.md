@@ -1,6 +1,6 @@
 # DesafioBackEnd
 **Fluxo**
-Verifique a string de conexão que está em appsettings.json. E adeque-se para a sua, caso necessário.
+Verifique a string de conexão que está em appsettings.json. E adeque-se para a sua, caso necessário(lembre de deixar isto: Database=DesafioBackEnd;).
 update-database(caso estiver utilizando visual studio, apenas abrir o console gerenciador de pacotes e dar esse comando para criar o banco de dados).
 Eu criei dados fixos para a tabela Measurement.
 
